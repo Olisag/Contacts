@@ -1,0 +1,16 @@
+2017-02-15 15:11:07,920 [8] ERROR Contacts.Models.Logger [(null)] - Edit contact: id is null
+2017-02-15 15:11:12,624 [6] ERROR Contacts.Models.Logger [(null)] - Edit contact: id is null
+2017-02-15 15:11:14,330 [17] ERROR Contacts.Models.Logger [(null)] - Edit contact: id is null
+2017-02-15 15:12:18,506 [6] ERROR Contacts.Models.Logger [(null)] - Edit contact: contact not found
+2017-02-15 15:12:20,452 [6] ERROR Contacts.Models.Logger [(null)] - Edit contact: contact not found
+2017-02-15 15:12:20,640 [18] ERROR Contacts.Models.Logger [(null)] - Edit contact: contact not found
+2017-02-15 15:24:38,554 [11] ERROR Contacts.Models.Logger [(null)] - Edit contact: contact not found
+2017-02-15 15:24:39,954 [8] ERROR Contacts.Models.Logger [(null)] - Edit contact: contact not found
+2017-02-15 15:24:40,141 [12] ERROR Contacts.Models.Logger [(null)] - Edit contact: contact not found
+2017-02-15 15:28:49,695 [7] ERROR Contacts.Models.Logger [(null)] - Edit contact: id is null
+2017-02-15 15:28:51,489 [7] ERROR Contacts.Models.Logger [(null)] - Edit contact: id is null
+2017-02-15 15:28:51,498 [8] ERROR Contacts.Models.Logger [(null)] - Edit contact: id is null
+2017-02-15 15:29:38,066 [8] ERROR Contacts.Models.Logger [(null)] - Edit contact: contact with id 6 not found
+2017-02-15 15:30:11,378 [8] ERROR Contacts.Models.Logger [(null)] - Edit contact: contact with id 68 not found
+2017-02-15 15:30:14,123 [7] ERROR Contacts.Models.Logger [(null)] - Edit contact: contact with id 68 not found
+2017-02-15 15:30:14,311 [24] ERROR Contacts.Models.Logger [(null)] - Edit contact: contact with id 68 not found
