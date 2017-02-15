@@ -1,3 +1,5 @@
 # Contacts (Leadifytest project)
 
-Find Database backup (+ DB script) in DB_Backup folder
+Find Database backups (+ DB script) in DB_Backup folder.
+
+Run DB script (or import mdf file) in Local SQLExpress (version 11 or 12) as per app connection string.
